@@ -1,7 +1,7 @@
 C PROGRAMMING - CODING QUESTIONS FOR INTERVIEWS 
 =========
 
-A simple php social networking script designed using pathang framework. It has all the kool features to compete with the modern day social scripts. A clean responsive template, admin panel to customize the website, smooth jquery animation effects keeps the feedstack standing out the crowd.Above all its absolute freeware and open source licensed under GNU/GPL v2<br>
+The most important coding questions for Amcat, Cocubes,Elitmus, TCS Ninja, Infosys, Capgemini,Cognizant and Wipro.<br>
 
 
 Video Lectures : http://packetprep.com/course/coding-questions
@@ -18,6 +18,11 @@ Basic Programs
 8. Program to count the digits of a number
 9. Program to swap two numbers (All methods)
 10. Program to print Fibonacci series
+11. Program to print Hello World without semicolon
+12. Find the largest of two numbers without conditional statement
+13. Program to find the area of a Triangle when sides are given
+14. Program to find the volume of a Sphere when radius is given
+15. Program to check if the year is a Leap year
 
 Arrays:
 ----------------
