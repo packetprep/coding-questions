@@ -23,6 +23,12 @@ Basic Programs
 13. Program to find the area of a Triangle when sides are given
 14. Program to find the volume of a Sphere when radius is given
 15. Program to check if the year is a Leap year
+16. Program to convert Binary to Decimal and viceversa 
+17. Program to convert Binary to Octal 
+18. Program to find LCM of two numbers without recursion
+19. Program to find GCD of two numbers without recursion
+20. Program to print wedge,pyramid and diamond pattern
+
 
 Arrays:
 ----------------

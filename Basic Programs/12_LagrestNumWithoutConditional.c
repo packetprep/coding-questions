@@ -20,7 +20,7 @@ int main(){
 
 	max = findMax(a,b);
 
-	printf("The maximum number is %d",max);
+	printf("The maximum number is %d \n",max);
 
 
 }
