@@ -36,13 +36,13 @@ Arrays:
 2. Find the second smallest,largest number in the array
 
 
-Do give your valuable feedback... together we can make this repo awesome :)
+Do give your valuable feedback... together we can make this repository awesome :)
  
 
 
 ================================================================
 
-Written by :Krishna Teja @www.packetprep.com 
+Written by : Krishna Teja @www.packetprep.com 
 
 
 
