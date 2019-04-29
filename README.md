@@ -39,9 +39,9 @@ Arrays:
 2. Find the second smallest,largest number in the array
 
 
-Written with lots of love & passion for programming...
-Do give your valuable feedback... 
-Together we can make this repository awesome :)
+Written with lots of love & passion for programming...<br>
+Do give your valuable feedback... <br>
+Together we can make this repository awesome :thumbsup:
 
 ================================================================
 
