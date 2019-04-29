@@ -35,8 +35,11 @@ Basic Programs
 
 Arrays:
 ----------------
-1. Find the smallest and Largest number in the array
-2. Find the second smallest,largest number in the array
+1. [Find the smallest and Largest number in the array](https://github.com/packetprep/coding-questions/blob/master/Arrays/1_FindLargestSmallestInArray.c)
+2. [Find the second smallest,largest number in the array](https://github.com/packetprep/coding-questions/blob/master/Arrays/2_FindSecondLargest.c)
+3. [Program to remove duplicate elements in an array](https://github.com/packetprep/coding-questions/blob/master/Arrays/3_RemoveDuplicates.c)
+4. [Program to search for an element in an array using linear search](https://github.com/packetprep/coding-questions/blob/master/Arrays/4_LinearSearch.c)
+5. [Program to sort an array in ascending order using Bubble Sort](https://github.com/packetprep/coding-questions/blob/master/Arrays/5_BubbleSort.c)
 
 
 ______________________________________________________<br>
