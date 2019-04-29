@@ -4,17 +4,17 @@ C PROGRAMMING - CODING QUESTIONS FOR INTERVIEWS
 The most important coding questions for Amcat, Cocubes,Elitmus, TCS Ninja, Infosys, Capgemini, Cognizant, Wipro and many more...<br>
 
 
-Video Lectures : http://packetprep.com/course/coding-questions
+Video Lectures : https://packetprep.com/course/coding-for-interviews
 
 Basic Programs
 --------
 1. [Program to check if the given number is even or odd](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/1_CheckEvenOdd.c)
-2. Program to check if the given number is a Prime number
-3. Program to check if the given number is Palindrome
-4. Program to check if the given number is Perfect number
-5. Program to check if the given number is Armstrong number
-6. Find the factorial of a number
-7. Program to check if the given number is Strong number
+2. [Program to check if the given number is a Prime number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/2_CheckPrime.c)
+3. [Program to check if the given number is Palindrome](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/3_CheckPalindrome.c)
+4. [Program to check if the given number is Perfect number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/4_CheckPerfect.c)
+5. [Program to check if the given number is Armstrong number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/5_CheckArmstrong.c)
+6. [Find the factorial of a number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/6_Factorial.c)
+7. [Program to check if the given number is Strong number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/7_CheckStrong.c)
 8. Program to count the digits of a number
 9. Program to swap two numbers (All methods)
 10. Program to print Fibonacci series

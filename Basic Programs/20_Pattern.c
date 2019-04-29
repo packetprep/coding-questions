@@ -58,7 +58,7 @@ int main(){
 		for(j=k;j>0;j--){
 			printf("%d ",1);
 		}
-		k-=2; // k=k+2;
+		k-=2; // k=k-2;
 		printf("\n");
 	}
 
