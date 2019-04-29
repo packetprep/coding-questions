@@ -5,7 +5,8 @@ Coding:fire: is an art, it has to be learnt with heart:heart:
 If you are preparing for coding round for interviews,then this repo with help you get through with basics. The List contains the most important coding questions for Amcat, Cocubes,Elitmus, TCS Ninja, Infosys, Capgemini, Cognizant, Wipro and many more...<br>
 
 
-To make your preparation easy and effective, we have also shot the concept lectures for each program. Watch them to get the grip on core idea of implementation.
+To make your preparation easy and effective, we have also shot the concept lectures for each program. Watch them to get the grip on core idea of implementation.<br>
+
 Video Lectures : https://packetprep.com/course/coding-for-interviews
 
 Basic Programs
