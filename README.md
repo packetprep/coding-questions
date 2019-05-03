@@ -12,7 +12,7 @@ Video Lectures : https://packetprep.com/course/coding-for-interviews
 Basic Programs
 --------
 1. [Program to check if the given number is even or odd](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/1_CheckEvenOdd.c)
-2. [Program to check if the given number is a Prime number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/2_CheckPrime.c)
+2. [Program to check if the given number is a Prime number :zap::zap::zap:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/2_CheckPrime.c)
 3. [Program to check if the given number is Palindrome](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/3_CheckPalindrome.c)
 4. [Program to check if the given number is Perfect number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/4_CheckPerfect.c)
 5. [Program to check if the given number is Armstrong number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/5_CheckArmstrong.c)
