@@ -8,22 +8,22 @@ If you are preparing for coding round for interviews,then this repo with help yo
 To make your preparation easy and effective, we have also shot the concept lectures for each program. Watch them to get the grip on core idea of implementation.<br>
 
 If you are falling short of time, then go through the important programs which are marked as :snowflake:<br>
-ALL THE BEST FOR YOUR INTERVIEW<br>
+> ALL THE BEST FOR YOUR INTERVIEW
 
 Video Lectures : https://packetprep.com/course/coding-for-interviews
 
 Basic Programs
 --------
 1. [Program to check if the given number is even or odd](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/1_CheckEvenOdd.c)
-2. [Program to check if the given number is a Prime number :star:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/2_CheckPrime.c)
-3. [Program to check if the given number is Palindrome :star:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/3_CheckPalindrome.c)
+2. [Program to check if the given number is a Prime number :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/2_CheckPrime.c)
+3. [Program to check if the given number is Palindrome :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/3_CheckPalindrome.c)
 4. [Program to check if the given number is Perfect number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/4_CheckPerfect.c)
 5. [Program to check if the given number is Armstrong number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/5_CheckArmstrong.c)
 6. [Find the factorial of a number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/6_Factorial.c)
 7. [Program to check if the given number is Strong number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/7_CheckStrong.c)
 8. [Program to count the digits of a number](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/8_CountDigits.c)
 9. [Program to swap two numbers (All methods)](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/9_SwapNumbers.c)
-10. [Program to print Fibonacci series :star:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/9_SwapNumbers.c)
+10. [Program to print Fibonacci series :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/9_SwapNumbers.c)
 11. [Program to print Hello World without semicolon](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/11_HelloWorldNoSemiColon.c)
 12. [Find the largest of two numbers without conditional statement](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/12_LagrestNumWithoutConditional.c)
 13. [Program to find the area of a Triangle when sides are given](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/13_AreaOfTriangle.c)
@@ -31,15 +31,15 @@ Basic Programs
 15. [Program to check if the year is a Leap year](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/15_LeapYear.c)
 16. [Program to convert Binary to Decimal and viceversa](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/16_DecimalBinaryConverter.c)
 17. [Program to convert Binary to Octal ](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/17_BinaryOctalConverter.c)
-18. [Program to find LCM of two numbers without recursion :star:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/18_LCM.c)
-19. [Program to find GCD of two numbers without recursion :star:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/19_GCD.c)
+18. [Program to find LCM of two numbers without recursion :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/18_LCM.c)
+19. [Program to find GCD of two numbers without recursion :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/19_GCD.c)
 20. [Program to print wedge,pyramid and diamond pattern](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/20_Pattern.c)
 
 
 Arrays:
 ----------------
 1. [Find the smallest and Largest number in the array](https://github.com/packetprep/coding-questions/blob/master/Arrays/1_FindLargestSmallestInArray.c)
-2. [Find the second smallest,largest number in the array :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Arrays/2_FindSecondLargest.c)
+2. [Find the second largest number in the array :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Arrays/2_FindSecondLargest.c)
 3. [Program to remove duplicate elements in an array :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Arrays/3_RemoveDuplicates.c)
 4. [Program to search for an element in an array using linear search](https://github.com/packetprep/coding-questions/blob/master/Arrays/4_LinearSearch.c)
 5. [Program to sort an array in ascending order using Bubble Sort](https://github.com/packetprep/coding-questions/blob/master/Arrays/5_BubbleSort.c)
@@ -48,12 +48,12 @@ https://github.com/packetprep/coding-questions/blob/master/Arrays/7_FrequencyCou
 7. [Find the frequency of numbers in an array](https://github.com/packetprep/coding-questions/blob/master/Arrays/7_FrequencyCounter.c)
 8. [Program to separate Even and Odd numbers in an array ](https://github.com/packetprep/coding-questions/blob/master/Arrays/8_SeparateEvenOddInArray.c ) 
 
-______________________________________________________<br>
+---
 Written with lots of love & passion for programming...<br>
 Do give your valuable feedback... <br>
 Together we can make this repository awesome :thumbsup:
 
-================================================================
+---
 
 Krishna Teja G S @www.packetprep.com 
 
