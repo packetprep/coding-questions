@@ -7,6 +7,9 @@ If you are preparing for coding round for interviews,then this repo with help yo
 
 To make your preparation easy and effective, we have also shot the concept lectures for each program. Watch them to get the grip on core idea of implementation.<br>
 
+If you are falling short of time, then go through the important programs which are marked as :snowflake:<br>
+ALL THE BEST FOR YOUR INTERVIEW<br>
+
 Video Lectures : https://packetprep.com/course/coding-for-interviews
 
 Basic Programs
@@ -36,11 +39,11 @@ Basic Programs
 Arrays:
 ----------------
 1. [Find the smallest and Largest number in the array](https://github.com/packetprep/coding-questions/blob/master/Arrays/1_FindLargestSmallestInArray.c)
-2. [Find the second smallest,largest number in the array :star:](https://github.com/packetprep/coding-questions/blob/master/Arrays/2_FindSecondLargest.c)
-3. [Program to remove duplicate elements in an array :star:](https://github.com/packetprep/coding-questions/blob/master/Arrays/3_RemoveDuplicates.c)
+2. [Find the second smallest,largest number in the array :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Arrays/2_FindSecondLargest.c)
+3. [Program to remove duplicate elements in an array :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Arrays/3_RemoveDuplicates.c)
 4. [Program to search for an element in an array using linear search](https://github.com/packetprep/coding-questions/blob/master/Arrays/4_LinearSearch.c)
 5. [Program to sort an array in ascending order using Bubble Sort](https://github.com/packetprep/coding-questions/blob/master/Arrays/5_BubbleSort.c)
-6. [Program to find the Largest Sum of Contiguous Subarray - Kadane's Algorithm :star:](
+6. [Program to find the Largest Sum of Contiguous Subarray - Kadane's Algorithm :snowflake:](
 https://github.com/packetprep/coding-questions/blob/master/Arrays/7_FrequencyCounter.c6_LargestSumContiguousSubArray.c)
 7. [Find the frequency of numbers in an array](https://github.com/packetprep/coding-questions/blob/master/Arrays/7_FrequencyCounter.c)
 8. [Program to separate Even and Odd numbers in an array ](https://github.com/packetprep/coding-questions/blob/master/Arrays/8_SeparateEvenOddInArray.c ) 
