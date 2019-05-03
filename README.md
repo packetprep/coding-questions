@@ -2,15 +2,17 @@ C PROGRAMMING - CODING QUESTIONS FOR INTERVIEWS
 =========
 
 Coding:fire: is an art, it has to be learnt with heart:heart: 
-If you are preparing for coding round for interviews,then this repo with help you get through with basics. The List contains the most important coding questions for Amcat, Cocubes,Elitmus, TCS Ninja, Infosys, Capgemini, Cognizant, Wipro and many more...<br>
+If you are preparing for coding round for interviews,then this repo with help you get through with basics. The List contains the most important coding questions for Amcat, Cocubes, Elitmus, TCS Ninja, Infosys, Capgemini, Cognizant, Wipro and many more...<br>
 
 
 To make your preparation easy and effective, we have also shot the concept lectures for each program. Watch them to get the grip on core idea of implementation.<br>
 
+Video Lectures : https://packetprep.com/course/coding-for-interviews<br>
+
 If you are falling short of time, then go through the important programs which are marked as :snowflake:<br>
 > ALL THE BEST FOR YOUR INTERVIEW
 
-Video Lectures : https://packetprep.com/course/coding-for-interviews
+
 
 Basic Programs
 --------
@@ -33,7 +35,7 @@ Basic Programs
 17. [Program to convert Binary to Octal ](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/17_BinaryOctalConverter.c)
 18. [Program to find LCM of two numbers without recursion :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/18_LCM.c)
 19. [Program to find GCD of two numbers without recursion :snowflake:](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/19_GCD.c)
-20. [Program to print wedge,pyramid and diamond pattern](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/20_Pattern.c)
+20. [Program to print wedge, pyramid and diamond pattern](https://github.com/packetprep/coding-questions/blob/master/Basic%20Programs/20_Pattern.c)
 
 
 Arrays:
