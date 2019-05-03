@@ -36,7 +36,7 @@ int main(){
 	for(i=0;i<j;i++)
 		printf("%d ",even[i]);
 
-	//Print Odd numbers 
+	//Print Odd numbers
 	printf("\n\nOdd numbers in the array are:\n");
 	for(i=0;i<k;i++)
 		printf("%d ",odd[i]);
