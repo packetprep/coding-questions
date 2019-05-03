@@ -40,7 +40,10 @@ Arrays:
 3. [Program to remove duplicate elements in an array](https://github.com/packetprep/coding-questions/blob/master/Arrays/3_RemoveDuplicates.c)
 4. [Program to search for an element in an array using linear search](https://github.com/packetprep/coding-questions/blob/master/Arrays/4_LinearSearch.c)
 5. [Program to sort an array in ascending order using Bubble Sort](https://github.com/packetprep/coding-questions/blob/master/Arrays/5_BubbleSort.c)
-
+6. [Program to find the Largest Sum of Contiguous Subarray - Kadane's Algorithm](
+https://github.com/packetprep/coding-questions/blob/master/Arrays/7_FrequencyCounter.c6_LargestSumContiguousSubArray.c)
+7. [Find the frequency of numbers in an array](https://github.com/packetprep/coding-questions/blob/master/Arrays/7_FrequencyCounter.c)
+8. [Program to separate Even and Odd numbers in an array ](https://github.com/packetprep/coding-questions/blob/master/Arrays/8_SeparateEvenOddInArray.c ) 
 
 ______________________________________________________<br>
 Written with lots of love & passion for programming...<br>
